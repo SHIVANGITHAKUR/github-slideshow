@@ -1,3 +1,8 @@
+My name is Shivangi.
+I Am learning github.
+For performing various projects on github
+Thank you gor coordinating.
+God bless us.
 ---
 layout: slide
 title: "Welcome to our slide deck!"
